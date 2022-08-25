@@ -11,7 +11,7 @@ public class MyMain {
         try {
             sum = num1 + num2;
             if (sum < 150) {
-                throw new MyFirstException("Custom exception occurs");
+                throw new MyFirstException("Custom exception occurs because the sum must be greater then 150");
             }
             sum = num1 + num2;
             System.out.println("result = " + sum);
