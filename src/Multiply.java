@@ -15,5 +15,4 @@ public class Multiply {
             System.out.println("e = " + e);
         }
     }
-
 }
