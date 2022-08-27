@@ -6,7 +6,7 @@ public class mkl {
         try {
             sum = num1 + num2;
             if (sum < 100) {
-                throw new MyFirstException("kam hai bsdk");
+                throw new MyFirstException("kam hai");
 
             }
             System.out.println(sum);
