@@ -6,9 +6,7 @@ public class Multiply {
         try {
             sum = num1 + num2;
             if (sum < 100) {
-                throw new MyFirstException("kam hai");
-
-            }
+                throw new MyFirstException("kam hai");}
             System.out.println(sum);
 
         } catch (MyFirstException e) {
