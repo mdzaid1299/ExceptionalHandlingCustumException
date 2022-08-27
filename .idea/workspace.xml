@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e627152-d5f4-4a25-9829-460900965790" name="Changes" comment="final">
-      <change afterPath="$PROJECT_DIR$/src/Play.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mkl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyMain.java" afterDir="false" />
+    <list default="true" id="1e627152-d5f4-4a25-9829-460900965790" name="Changes" comment="New Class added">
+      <change beforePath="$PROJECT_DIR$/src/Play.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Play.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +43,16 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.mkl">
+  <component name="RunManager" selected="Application.Play">
     <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyMain" />
+      <module name="C3S3B00K" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Play" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Play" />
       <module name="C3S3B00K" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Play" />
         <item itemvalue="Application.mkl" />
         <item itemvalue="Application.MyMain" />
       </list>
@@ -91,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661405177952</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New Class added">
+      <created>1661628699688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661628699688</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New Class added">
+      <created>1661628764447</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661628764447</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,7 +139,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final" />
+    <MESSAGE value="New Class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Class added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
